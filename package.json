@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/patriciaderieux15/Story-Books#readme",
   "dependencies": {
-    "connect-mongo": "^4.6.0",
+    "connect-mongo": "^3.2.0",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "express-handlebars": "^6.0.2",
